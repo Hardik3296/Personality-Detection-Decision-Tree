@@ -1,0 +1,5 @@
+---
+applications:
+ - name: MB-B5-IPIP
+   random-route: true
+   memory: 128M
