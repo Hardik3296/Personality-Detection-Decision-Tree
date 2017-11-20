@@ -1,0 +1,15 @@
+.text
+{
+     padding-left: 20px;
+     padding-right:20px;
+     padding-top:10px;
+     padding-bottom: 20px;
+}
+
+h4
+{
+     font-family : monospace;
+     color:Green;
+     font-size: 30px;
+     font-style : italic ;
+}

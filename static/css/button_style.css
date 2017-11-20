@@ -1,0 +1,40 @@
+
+.btn-group-vertical button{
+     border : none;
+     cursor:none;
+     background-color:white;
+     width:100%;
+     font-size:30px;
+     padding-top:none;
+}
+
+.group{
+          margin-top:50%;
+          margin-left:20%;
+}
+
+.but{
+     margin-top:32%;
+     background-color:white;;
+     border:none;
+     font-size:30px;
+}
+
+.btn-default:hover{
+     background-color:#2eb82e;
+     color:white;
+     cursor:pointer;
+}
+
+.bd{
+     padding-left: 10px;
+     padding-right:10px;s
+}
+
+.para{
+     padding-left:20px;
+     padding-right:20px;
+     padding-bottom:20px;
+     font-size:18px;
+     justify-content: flex-start;
+}
